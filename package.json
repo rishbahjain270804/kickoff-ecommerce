@@ -1,0 +1,27 @@
+{
+  "name": "kickoff-ecommerce",
+  "version": "1.0.0",
+  "description": "E-commerce platform built with Node.js, Express, and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishbahjain270804/kickoff-ecommerce.git"
+  },
+  "author": "Rishi_27",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rishbahjain270804/kickoff-ecommerce/issues"
+  },
+  "homepage": "https://github.com/rishbahjain270804/kickoff-ecommerce#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "passport": "^0.7.0",
+    "stripe": "^16.2.0"
+  }
+}
